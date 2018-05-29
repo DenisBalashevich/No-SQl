@@ -1,0 +1,14 @@
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\obj\Debug\netcoreapp2.0\NoSqlTest.csprojResolveAssemblyReference.cache
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\obj\Debug\netcoreapp2.0\NoSqlTest.csproj.CoreCompileInputs.cache
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\obj\Debug\netcoreapp2.0\NoSqlTest.AssemblyInfoInputs.cache
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\obj\Debug\netcoreapp2.0\NoSqlTest.AssemblyInfo.cs
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\bin\Debug\netcoreapp2.0\NoSqlTest.deps.json
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\bin\Debug\netcoreapp2.0\NoSqlTest.runtimeconfig.json
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\bin\Debug\netcoreapp2.0\NoSqlTest.runtimeconfig.dev.json
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\bin\Debug\netcoreapp2.0\NoSqlTest.dll
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\bin\Debug\netcoreapp2.0\NoSqlTest.pdb
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\obj\Debug\netcoreapp2.0\NoSqlTest.dll
+C:\Users\Denis_Balashevich\Source\Repos\NoSQL\NoSqlTest\obj\Debug\netcoreapp2.0\NoSqlTest.pdb
